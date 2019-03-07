@@ -1,0 +1,55 @@
+#topBar {
+  font-familY: "Open Sans Condensed", sans-serif;
+  color: #6f1200;
+  text-align: center;
+  font-weight: bold;
+}
+
+.logoimg {
+  width: 100px;
+}
+
+#home {
+  color: white;
+  background-color: #6f1200;
+  font-weight: bold;
+}
+
+.subscript {
+  font-size: 10px;
+}
+
+.bottomMenu {
+  background-color: #fbedd3;
+}
+
+.bottomLinks {
+  color: #6f1200;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #6f1200;
+  font-size: 12px;
+  font-familY: "Open Sans Condensed", sans-serif;
+}
+
+.nav-link-2 {
+  text-decoration: none;
+  color: #6f1200;
+  font-size: 11px;
+}
+
+#tm {
+  font-size: 11px;
+  color: black;
+}
+
+.lousianaLogo {
+  margin-top: 30px;
+  margin-left: 120px;
+  width: 250px;
+}
