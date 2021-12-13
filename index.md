@@ -1,10 +1,10 @@
 ## Official site:
-<img src="/images/popeye2.PNG" width="400px">
-<img src="/images/popeye3.PNG" width="400px">
+<img src="/images/popeye2.PNG" width="800px">  
+<img src="/images/popeye3.PNG" width="800px">  
 
 ## My bootleg site:
-<img src="/images/popeye1.PNG" width="400px">
-<img src="/images/popeye4.PNG" width="400px">
+<img src="/images/popeye1.PNG" width="800px">
+<img src="/images/popeye4.PNG" width="800px">
 
 All throughout high school, teachers have been pushing the message of not copying or plagiarising other people’s work. There are posters, assemblies, emails, print outs, and more all explaining how plagiarising is the work of the devil. College took a step further and threatens suspension, if not possibly expelled if caught claiming other people’s work as your own. My ICS professor decided to start this week by copying pixel by pixel, of some copyrighted legally owned domains.
 
